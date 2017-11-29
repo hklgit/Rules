@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.bstek.urule:urule-core:2.1.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/bstek/urule/urule-core/2.1.1-SNAPSHOT/urule-core-2.1.1-20171128.041130-7.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/bstek/urule/urule-core/2.1.1-SNAPSHOT/urule-core-2.1.1-20171128.041130-7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/bstek/urule/urule-core/2.1.1-SNAPSHOT/urule-core-2.1.1-20171128.041130-7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
